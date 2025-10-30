@@ -10,7 +10,6 @@ It displays live predictions, confidence levels, FPS metrics, and features a per
 - 🎥 Real-time inference via OpenCV
 - 🧠 MobileNetV2 pretrained on ImageNet
 - 🗣️ Voice feedback for recognized objects
-- 📸 Screenshot capture (“S” key)
 - 💻 Custom UI banner + FPS counter
 - 🧩 Modular and extensible architecture
 
@@ -34,3 +33,4 @@ cd real_time_ai_vision
 pip install -r requirements.txt
 cd src
 python main.py
+
