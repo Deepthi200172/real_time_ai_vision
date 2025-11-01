@@ -4,7 +4,7 @@
 
 ## 🌟 Overview
 This project performs **real-time object recognition** through your webcam using a pretrained `MobileNetV2` model.  
-It displays live predictions, confidence levels, FPS metrics, and features a personalized overlay UI branded *“AI Vision by Deepthi RG.”*
+It displays live predictions, confidence levels, FPS metrics, and features a personalized overlay UI branded but i think the accuracyis not that good *“AI Vision by Deepthi RG.”*
 
 ### ✨ Key Highlights
 - 🎥 Real-time inference via OpenCV
